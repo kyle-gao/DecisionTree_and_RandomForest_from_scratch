@@ -14,7 +14,6 @@ Copyright 2020 Yi Lin(Kyle) Gao
 
 
 import pandas as pd
-import pandas as pd
 from helper_functions import *
 from Nodes import *
 
